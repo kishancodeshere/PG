@@ -1,0 +1,57 @@
+# IDE files
+.vscode/
+.idea/
+
+# Flutter/Dart specific files
+**.iml
+**.dart_tool/
+**.flutter-plugins
+**.packages
+**.pub/
+build/
+.dart_tool/
+.pub-cache/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub/
+/build/
+
+# macOS specific files
+.DS_Store
+
+# Android specific files
+**/android/gradle.properties
+**/android/local.properties
+**/android/.gradle
+**/android/app/local.properties
+**/android/app/build/
+**/android/gradlew
+**/android/gradlew.bat
+**/android/build/
+
+# iOS specific files
+**/ios/Pods/
+**/ios/Podfile.lock
+**/ios/Podfile.lock
+**/ios/Runner.xcworkspace/
+**/ios/.symlinks/
+**/ios/Flutter/ephemeral/
+**/ios/Flutter/App.framework/
+**/ios/Flutter/Flutter.framework/
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/app.flx
+**/ios/Flutter/flutter_export_environment.sh
+**/ios/Flutter/ios.properties
+**/ios/Flutter/pods_debug.xcconfig
+**/ios/Flutter/pods_release.xcconfig
+**/ios/Flutter/flutter_assets/
+**/ios/Flutter/flutter_export_environment.sh
+**/ios/Flutter/ios.properties
+**/ios/Flutter/Flutter.podspec
+
+# macOS folder configuration
+.DS_Store
